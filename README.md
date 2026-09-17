@@ -12,8 +12,6 @@
 <table>
   <tr>
    <td width="45%" align="center">
-  <img src="./profile.png" 
-       alt="Profile" width="100%" style="border-radius: 15px;" />
 </td>
     <td width="55%">
       <h2 align="left">👨🏻‍💻 About Me</h2>
